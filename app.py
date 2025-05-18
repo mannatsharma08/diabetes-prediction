@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import joblib
 import numpy as np
 from flask import Flask, request, jsonify
@@ -53,8 +53,6 @@ if __name__ == "__main__":
 
 
 
-
-=======
 import joblib
 import numpy as np
 from flask import Flask, request, jsonify
@@ -102,5 +100,4 @@ if __name__ == "__main__":
 
 
 
->>>>>>> d24bf1f917144f79813002d9b8119d5ef6fe7164
   
